@@ -1,2 +1,3 @@
-# productivization_of_dl_models
-Produktivizacija in analiza modelov globokega učenja implementiranih v lahkih odjemalskih mobilnih aplikacijah
+# Magistrsko delo - Produktivizacija in analiza modelov globokega učenja implementiranih v lahkih odjemalskih mobilnih aplikacijah
+
+V zadnjem času se globoki modeli nevronskih mrež čedalje bolj uporabljajo v praksi. Seveda je možno implementirati lastno infrastrukturo, ki bo služila namenu, da bodo rezultati našega modela dostopni uporabnikom, vendar za ta namen obstajajo tudi specifična orodja ali ogrodja. V tem delu pregledamo katera orodja in ogrodja nam omogočijo čim večji doseg in učinkovito implementacijo globokih modelov v specifičnih okoljih (brskalnik, mobilna okolja). Izvedemo pregled in analizo orodji, ki omogočajo zagon obstoječih globokih modelov v specifičnih okoljih (TensorFlow.js, TensorFlow Lite, PyTorch Mobile) in preučimo podporo za ta orodja v ogrodjih za razvoj lahkih odjemalskih mobilnih aplikacij (React Native, Flutter). Na podlagi izvedene analize izberemo najustreznejše orodje za zagon modela in ogrodje za razvoj aplikacije ter demonstriramo produktivizacijo že obstoječega globokega modela.
